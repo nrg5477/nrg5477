@@ -65,10 +65,12 @@ Here are some ideas to get you started:
 
 
 >### 백준 알고리즘
-    >[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=nrg5477)](https://solved.ac/profile/nrg5477)
+
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=nrg5477)](https://solved.ac/profile/nrg5477)
 
 >### 🚌 Top Langs
-    >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrg5477&layout=)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrg5477&layout=)
 
 
     > 깃헙 프로필 생성기 https://qus0in.github.io/paste_profile/
