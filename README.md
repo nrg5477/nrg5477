@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ![커버](https://capsule-render.vercel.app/api?type=waving&height=250&color=9a9d9c&text=nrg5477%20dev&fontAlign=50&fontAlignY=37&animation=fadeIn)
 
 * 저는 `!!`을 준비하고 있습니다.
-* 저는 `풀스택`을 준비하고 있는 변영인입니다.
-* `대용량 서비스 처리`를 중심으로 사이드 프로젝트를 진행중입니다.
+* 저는 `풀스택`을 준비하고 있는 이희찬입니다.
+* `웹개발 프로젝트`를 중심으로 사이드 프로젝트를 진행중입니다.
 * `알고리즘` 및 `CS` 스터디를 운영하고 있습니다.
 * `정보처리기사` 및 `SQL` 자격증을 취득했습니다.
 
