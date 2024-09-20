@@ -69,5 +69,3 @@ jpa프로그래밍<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrg5477&layout=compact)
 
-
-    > 깃헙 프로필 생성기 https://qus0in.github.io/paste_profile/
